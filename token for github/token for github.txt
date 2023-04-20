@@ -1,7 +1,0 @@
-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
-
-Personal Access Token Classic
-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
-
-ssh key for ec2 developer2system
-SHA256:a3rFnAhCc8FdxAeZk3mYaHogE+zK8Qgx1ylh+j0qpys
